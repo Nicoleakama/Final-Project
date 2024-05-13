@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622703481079",
+    "project_id": "nicole-a4f44",
+    "storage_bucket": "nicole-a4f44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622703481079:android:846b671d6eed90930143f2",
+        "android_client_info": {
+          "package_name": "net.coding"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFxXzIfIWECCnzEj_gAx4SoKdHi_TnZDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

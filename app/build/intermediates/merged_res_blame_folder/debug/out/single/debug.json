@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "net.ezra.app-merged_res-76:/font_poppins_regular.ttf.flat",
+        "source": "net.ezra.app-main-78:/font/poppins_regular.ttf"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "net.ezra.app-main-78:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/font_poppins_medium.ttf.flat",
+        "source": "net.ezra.app-main-78:/font/poppins_medium.ttf"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/font_poppins_extra_bold.ttf.flat",
+        "source": "net.ezra.app-main-78:/font/poppins_extra_bold.ttf"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/drawable_backarrow.png.flat",
+        "source": "net.ezra.app-main-78:/drawable/backarrow.png"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/xml_backup_rules.xml.flat",
+        "source": "net.ezra.app-main-78:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/drawable_newlogo.png.flat",
+        "source": "net.ezra.app-main-78:/drawable/newlogo.png"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/font_poppins_bold.ttf.flat",
+        "source": "net.ezra.app-main-78:/font/poppins_bold.ttf"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "net.ezra.app-main-78:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "net.ezra.app-main-78:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/drawable_instagram.png.flat",
+        "source": "net.ezra.app-main-78:/drawable/instagram.png"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "net.ezra.app-main-78:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "net.ezra.app-main-78:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/drawable_button.jpg.flat",
+        "source": "net.ezra.app-main-78:/drawable/button.jpg"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/drawable_ic_search.xml.flat",
+        "source": "net.ezra.app-main-78:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/font_poppins_thin.ttf.flat",
+        "source": "net.ezra.app-main-78:/font/poppins_thin.ttf"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/drawable_official.png.flat",
+        "source": "net.ezra.app-main-78:/drawable/official.png"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/drawable_ic_launcher_background.xml.flat",
+        "source": "net.ezra.app-main-78:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "net.ezra.app-main-78:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/drawable_ic_app_logo.xml.flat",
+        "source": "net.ezra.app-main-78:/drawable/ic_app_logo.xml"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "net.ezra.app-main-78:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/drawable_save.png.flat",
+        "source": "net.ezra.app-main-78:/drawable/save.png"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/drawable_welcome.avif.flat",
+        "source": "net.ezra.app-main-78:/drawable/welcome.avif"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/drawable_slack.png.flat",
+        "source": "net.ezra.app-main-78:/drawable/slack.png"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/font_poppins_black.ttf.flat",
+        "source": "net.ezra.app-main-78:/font/poppins_black.ttf"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "net.ezra.app-main-78:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/drawable_google.png.flat",
+        "source": "net.ezra.app-main-78:/drawable/google.png"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/drawable_ball.jpg.flat",
+        "source": "net.ezra.app-main-78:/drawable/ball.jpg"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/drawable_job.jpg.flat",
+        "source": "net.ezra.app-main-78:/drawable/job.jpg"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/font_poppins_italic.ttf.flat",
+        "source": "net.ezra.app-main-78:/font/poppins_italic.ttf"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/drawable_edit.png.flat",
+        "source": "net.ezra.app-main-78:/drawable/edit.png"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/font_poppins_light.ttf.flat",
+        "source": "net.ezra.app-main-78:/font/poppins_light.ttf"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "net.ezra.app-main-78:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "net.ezra.app-pngs-71:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/drawable_kindpng.png.flat",
+        "source": "net.ezra.app-main-78:/drawable/kindpng.png"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/drawable_microsoft.png.flat",
+        "source": "net.ezra.app-main-78:/drawable/microsoft.png"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "net.ezra.app-main-78:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/drawable_netflix.png.flat",
+        "source": "net.ezra.app-main-78:/drawable/netflix.png"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/drawable_location.png.flat",
+        "source": "net.ezra.app-main-78:/drawable/location.png"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/drawable_message.png.flat",
+        "source": "net.ezra.app-main-78:/drawable/message.png"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/drawable_royalperfume.png.flat",
+        "source": "net.ezra.app-main-78:/drawable/royalperfume.png"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/drawable_elevate.png.flat",
+        "source": "net.ezra.app-main-78:/drawable/elevate.png"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/xml_data_extraction_rules.xml.flat",
+        "source": "net.ezra.app-main-78:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/drawable_briefcase.png.flat",
+        "source": "net.ezra.app-main-78:/drawable/briefcase.png"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/drawable_ic_person.xml.flat",
+        "source": "net.ezra.app-main-78:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/drawable_tick.png.flat",
+        "source": "net.ezra.app-main-78:/drawable/tick.png"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "net.ezra.app-main-78:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-76:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "net.ezra.app-main-78:/mipmap-mdpi/ic_launcher.webp"
+    }
+]

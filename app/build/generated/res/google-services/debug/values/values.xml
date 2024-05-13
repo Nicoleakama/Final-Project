@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">622703481079</string>
+    <string name="google_api_key" translatable="false">AIzaSyDFxXzIfIWECCnzEj_gAx4SoKdHi_TnZDw</string>
+    <string name="google_app_id" translatable="false">1:622703481079:android:846b671d6eed90930143f2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDFxXzIfIWECCnzEj_gAx4SoKdHi_TnZDw</string>
+    <string name="google_storage_bucket" translatable="false">nicole-a4f44.appspot.com</string>
+    <string name="project_id" translatable="false">nicole-a4f44</string>
+</resources>
